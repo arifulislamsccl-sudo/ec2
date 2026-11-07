@@ -1,0 +1,16 @@
+{
+  "appId": "com.mdarifulislam.engcalc",
+  "appName": "EngCalc",
+  "webDir": "www",
+  "backgroundColor": "#0a1626",
+  "android": {
+    "backgroundColor": "#0a1626"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "style": "DARK",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}
